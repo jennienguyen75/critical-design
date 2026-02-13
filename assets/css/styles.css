@@ -1,5 +1,11 @@
 /* styles.css */
 
+.backroundImage {
+	background-image: url(../img/wrench.png);
+	width: 400px;
+	height: 400px;
+	margin: 64px auto;
+}
 * {
 	font-family: Arial;
 }
