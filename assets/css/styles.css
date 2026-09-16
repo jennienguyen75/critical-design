@@ -39,6 +39,10 @@ h2 {
 	color: dodgerblue;
 	font-size: 40px;
 	text-align: left;
+	  font-family: "Jost", sans-serif;
+	  font-optical-sizing: auto;
+	  font-weight: 900;
+	  font-style: normal;
 }
 
 h3 {
@@ -53,5 +57,5 @@ h3 a:link, h3 a:visited {
 
 h3 a:hover {
 	color: white;
-	
+
 }
